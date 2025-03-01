@@ -60,19 +60,19 @@ Here are some screenshots of **ShellHit** in action:
 ### 🖥️ AI-Powered Command Execution
 ![Screenshot 1](https://drive.google.com/uc?id=1HmTIwSnpSb815AR3DTkCRlGvOn5HvJKK)
 
-### 🚀 Automating Terminal Tasks
+### 🚀 Simplifying Terminal Tasks
 ![Screenshot 2](https://drive.google.com/uc?id=1xA53Ms6NLcrwTy56flvmqL1Bk2AiGNpm)
 
-### ⚙️ Setting Up Environments
+### ⚙️ No need to memorise commands
 ![Screenshot 3](https://drive.google.com/uc?id=1qjTwZCQNQ2R3ceHjguRyo91tEaw_bS3z)
 
-### 🔥 Executing Commands Seamlessly
+### 🔥 Automate Commands Seamlessly
 ![Screenshot 4](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
 
 ### 🎯 Simplifying CLI Interactions
 ![Screenshot 5](https://drive.google.com/uc?id=1Zpm0Th6jWXvRWSM7gCpeR6t_rUu7h1bV)
 
-### 📂 Managing Files & Processes
+### 📂 Managing installations and processes
 ![Screenshot 6](https://drive.google.com/uc?id=1RnCx94NOx67OMXUKxAi0-fDGc5fmSwZ7)
 
 ### 🚀 Boosting Productivity with AI

@@ -16,43 +16,6 @@ Stop memorizing complex commands! **ShellHit** is your AI-powered terminal, writ
 
 ---
 
-## 🛠️ Installation
-
-### Option 1: **Using the Installer** (Recommended)
-
-1. **Download the latest installer** from [GitHub Releases](https://github.com/yourusername/shellhit/releases).
-2. Run the installer and follow the setup instructions.
-3. Launch ShellHit as an **Administrator** and start automating! 🚀
-
-### Option 2: **Manual Installation**
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/saranb565/ShellHit.git
-   cd shellhit
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   go mod tidy
-   ```
-
-3. **Set Up API Key**
-   - Create a `.env` file in the project root.
-   - Add your **Google Gemini AI API key**:
-     ```env
-     API_KEY=your_google_gemini_api_key
-     ```
-
-4. **Run ShellHit**
-   ```bash
-   go run main.go
-   ```
-
-> **Note:** Some commands require **admin privileges**!
-
----
-
 ## 🚀 How It Works
 
 ### 🔹 Execute Basic Commands
@@ -90,6 +53,71 @@ And much more....
 
 ---
 
+## 📸 Screenshots
+
+Here are some screenshots of **ShellHit** in action:
+
+### 🖥️ AI-Powered Command Execution
+![Screenshot 1](https://drive.google.com/uc?id=1HmTIwSnpSb815AR3DTkCRlGvOn5HvJKK)
+
+### 🚀 Automating Terminal Tasks
+![Screenshot 2](https://drive.google.com/uc?id=1xA53Ms6NLcrwTy56flvmqL1Bk2AiGNpm)
+
+### ⚙️ Setting Up Environments
+![Screenshot 3](https://drive.google.com/uc?id=1qjTwZCQNQ2R3ceHjguRyo91tEaw_bS3z)
+
+### 🔥 Executing Commands Seamlessly
+![Screenshot 4](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
+
+### 🎯 Simplifying CLI Interactions
+![Screenshot 5](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
+
+### 📂 Managing Files & Processes
+![Screenshot 6](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
+
+### 🚀 Boosting Productivity with AI
+![Screenshot 7](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
+
+
+## 🛠️ Installation
+
+### Option 1: **Using the Installer** (Recommended)
+
+1. **Download the latest installer** from [GitHub Releases](https://github.com/yourusername/shellhit/releases).
+2. Run the installer and follow the setup instructions.
+3. Launch ShellHit as an **Administrator** and start automating! 🚀
+
+### Option 2: **Manual Installation**
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/saranb565/ShellHit.git
+   cd shellhit
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   go mod tidy
+   ```
+
+3. **Set Up API Key**
+   - Create a `.env` file in the project root.
+   - Add your **Google Gemini AI API key**:
+     ```env
+     API_KEY=your_google_gemini_api_key
+     ```
+
+4. **Run ShellHit**
+   ```bash
+   go run main.go
+   ```
+
+> **Note:** Some commands require **admin privileges**!
+
+---
+
+
+
 ## 🛠️ Troubleshooting
 
 - **Getting API errors?**
@@ -122,8 +150,6 @@ Want to enhance ShellHit? Fork the repo and submit a pull request! 🚀
 - ✅ Custom AI model for improved command execution
 - ✅ Enhanced **error handling and logging**
 - ✅ Advanced scripting automation
-- ✅ Cloud-based command execution for remote tasks
-- ✅ Integration with CI/CD pipelines
 
 ---
 

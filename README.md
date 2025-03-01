@@ -49,7 +49,6 @@ And much more....
 - **Optimized for speed** – Executes commands with minimal delay.
 - **Beginner-friendly yet powerful** – Great for all experience levels.
 - **Perfect for automation** – Boosts productivity.
-- **Cross-platform support** – Works on **Windows, macOS, and Linux**.
 
 ---
 

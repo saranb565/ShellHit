@@ -70,13 +70,13 @@ Here are some screenshots of **ShellHit** in action:
 ![Screenshot 4](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
 
 ### 🎯 Simplifying CLI Interactions
-![Screenshot 5](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
+![Screenshot 5](https://drive.google.com/uc?id=1Zpm0Th6jWXvRWSM7gCpeR6t_rUu7h1bV)
 
 ### 📂 Managing Files & Processes
-![Screenshot 6](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
+![Screenshot 6](https://drive.google.com/uc?id=1RnCx94NOx67OMXUKxAi0-fDGc5fmSwZ7)
 
 ### 🚀 Boosting Productivity with AI
-![Screenshot 7](https://drive.google.com/uc?id=1dNTtT6c-xOVZjLrSBu20TSXdjKlcnzg6)
+![Screenshot 7](https://drive.google.com/uc?id=1TXB9kAU9Et29T-j-gFqHG-TO3kSAGrpU)
 
 
 ## 🛠️ Installation

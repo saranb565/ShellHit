@@ -1,8 +1,8 @@
-# ShellHit - AI-Powered Terminal
+# ShellHit - AI-Powered Terminal Built with Go
 
 🚀 **Revolutionize Your Command-Line Experience!**
 
-Stop memorizing complex commands! **ShellHit** is your AI-powered terminal that understands natural language and executes the right commands for you. Whether setting up a Python virtual environment, cloning your github repos, or initializing a Node.js project, ShellHit has you covered. 🎯
+Stop memorizing complex commands! **ShellHit** is your AI-powered terminal, written in **Go**, that understands natural language and executes the right commands for you. Whether setting up a Python virtual environment, cloning your github repos, or initializing a Node.js project, ShellHit has you covered. 🎯
 
 ## ✨ Features
 
